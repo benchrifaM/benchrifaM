@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benchrifa mbarek
+- 👋 Hi, I’m Benchrifa mbarek
 - 👀 I’m interested in sharing my skills and learn new skills
 - 🌱 I’m currently learning Algorithems and datastructures
 - 💞️ I’m looking to collaborate on an any project that based on React.js and PHP
